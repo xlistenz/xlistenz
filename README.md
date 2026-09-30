@@ -32,21 +32,21 @@ I'm a student developer in Taiwan interested in applied AI, computer vision, rob
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/xlistenz/AI-Assisted-Smart-Guide-Vest"><img src="https://raw.githubusercontent.com/xlistenz/AI-Assisted-Smart-Guide-Vest/main/assets/images/wico-prototype-demo.png" width="100%" alt="Wearable guide vest prototype during a live WICO demonstration" /></a><br />
       <sub>Wearable prototype · live demonstration</sub>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/xlistenz/AI-Assisted-Smart-Guide-Vest"><img src="https://raw.githubusercontent.com/xlistenz/AI-Assisted-Smart-Guide-Vest/main/assets/images/wico-booth-team.png" width="100%" alt="Project team at the WICO exhibition booth" /></a><br />
       <sub>WICO · project team</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/xlistenz/AI-Assisted-Smart-Guide-Vest"><img src="https://raw.githubusercontent.com/xlistenz/AI-Assisted-Smart-Guide-Vest/main/assets/images/wico-exhibition.png" width="100%" alt="Smart Guide Vest display board at the WICO exhibition" /></a><br />
       <sub>WICO · project display</sub>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/xlistenz/AI-Assisted-Smart-Guide-Vest"><img src="https://raw.githubusercontent.com/xlistenz/AI-Assisted-Smart-Guide-Vest/main/assets/images/wico-silver-certificate.png" width="100%" alt="2026 WICO Silver Award certificate and medal" /></a><br />
       <sub>2026 WICO · Silver Award</sub>
     </td>
