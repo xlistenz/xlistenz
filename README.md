@@ -8,7 +8,7 @@
 
 **Building practical technology through software, AI, and creative problem-solving.**
 
-[![Projects](https://img.shields.io/badge/EXPLORE-PROJECTS-5267DF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xlistenz?tab=repositories)
+[![專案](https://img.shields.io/badge/EXPLORE-PROJECTS-5267DF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xlistenz?tab=repositories)
 [![Focus](https://img.shields.io/badge/FOCUS-AI_%26_ROBOTICS-20232A?style=for-the-badge)](#selected-projects)
 [![Location](https://img.shields.io/badge/BASED_IN-TAIWAN-2B8A6E?style=for-the-badge)](#about)
 
@@ -16,7 +16,7 @@
 
 ---
 
-## About
+## 關於
 
 I'm a student developer in Taiwan interested in applied AI, computer vision, robotics, and interactive software. I like turning ideas into working prototypes—from assistive technology and camera-based interaction to creative coding projects.
 
