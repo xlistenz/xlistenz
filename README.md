@@ -1,4 +1,4 @@
-<img width="1280" height="720" alt="made_in_abyss" src="https://github.com/user-attachments/assets/01520865-16a3-4957-ad77-d273bd1c7e05" />
+<img width="1280" height="720" alt="made_in_abyss" src="https://raw.githubusercontent.com/xlistenz/xlistenz/main/assets/made_in_abyss.gif" />
 
 <div align="center">
 
