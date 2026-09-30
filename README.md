@@ -28,6 +28,33 @@ I'm a student developer in Taiwan interested in applied AI, computer vision, rob
 | [Hand2Robot](https://github.com/xlistenz/Hand2Robot) | Browser-based hand tracking, gesture control, and an interactive 3D robotics workspace. |
 | [NOXCAT: Digital Abyss](https://github.com/xlistenz/NOXCAT-Digital-Abyss-FUTUREMODE-2026-BUILDMODE-Hackathon-NOXCAT-Bounty-1st-runner-up) | A cyber-pixel platformer recognized with **2nd place** in the 2026 FUTUREMODE / BUILDMODE Hackathon NOXCAT Bounty. |
 
+## Project Gallery
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/xlistenz/AI-Assisted-Smart-Guide-Vest"><img src="https://raw.githubusercontent.com/xlistenz/AI-Assisted-Smart-Guide-Vest/main/assets/images/wico-prototype-demo.png" width="100%" alt="Wearable guide vest prototype during a live WICO demonstration" /></a><br />
+      <sub>Wearable prototype · live demonstration</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/xlistenz/AI-Assisted-Smart-Guide-Vest"><img src="https://raw.githubusercontent.com/xlistenz/AI-Assisted-Smart-Guide-Vest/main/assets/images/wico-booth-team.png" width="100%" alt="Project team at the WICO exhibition booth" /></a><br />
+      <sub>WICO · project team</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/xlistenz/AI-Assisted-Smart-Guide-Vest"><img src="https://raw.githubusercontent.com/xlistenz/AI-Assisted-Smart-Guide-Vest/main/assets/images/wico-exhibition.png" width="100%" alt="Smart Guide Vest display board at the WICO exhibition" /></a><br />
+      <sub>WICO · project display</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/xlistenz/AI-Assisted-Smart-Guide-Vest"><img src="https://raw.githubusercontent.com/xlistenz/AI-Assisted-Smart-Guide-Vest/main/assets/images/wico-silver-certificate.png" width="100%" alt="2026 WICO Silver Award certificate and medal" /></a><br />
+      <sub>2026 WICO · Silver Award</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Recognition
 
 | Year | Event | Result |
